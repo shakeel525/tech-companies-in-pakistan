@@ -31,6 +31,7 @@ If you have gone through an interview with a technology company which is not men
 ## Design - UI, UX, Product Design
 - [Bramerz](https://bramerz.pk/careers/) | Lahore | Full Service Digital Agency creating powerful footprints online for brands.
 - [Broadpeak Technologies](http://broadpeak.com) | Islamabad / Atlanta, USA | BroadPeak Technologies is a leading technology company which specializes in delivering web, mobile & desktop related applications
+- [Buzz Interactive](https://www.buzzinteractive.co) | Lahore, Pakistan / Kuala Lumpur, Malaysia | Buzz Interactive is an award winning full service digital and web agency with a passion for creating beautifully crafted digital expressions with meticulous execution of design and technology.
 - [Codistan](http://www.codistan.org) | Islamabad | Codistan is a hub for young enthusiasts excelling in the fields of Application and Web development, Social and Digital Media Marketing
 - [Face44](https://face44.com) | Islamabad, Paksitan / Leuven, Belgium / Vejle, Denmark | Internationally recognized and award-winning Digital Support Agency focused on Product Design, Branding, Web and high-end Web Development Support. Known for aesthetics and trend-setting culture.
 - [Ideate Innovation](https://ideateinnovation.com/careers) | Islamabad / Toronto, Canada | Pakistan's leading Human Centered and User Experience Design Firm
@@ -49,6 +50,7 @@ high-tech, manufacturing, medical device and life sciences industries.
 - [Careem](https://www.careem.com/en-pk/careers/) | Lahore, Karachi / Dubai, UAE / Multiple locations | Careem is the leading technology platform for the greater Middle East. A pioneer of the region’s ride-hailing economy, Careem is expanding services across its platform to include payments, delivery and mass transportation.
 - [Cricingif](https://www.cricingif.com/contact) | Lahore | Cricingif provides the fastest live score updates along with the highlight of every ball of every match
 - [Educative.io](https://www.educative.io/) | Lahore / Seattle, USA | Educative provides interactive and adaptive courses for software developers made by developers. 
+- [Funnel](https://funnelcrm.co) | Pakistan, Global | Funnel is a smart CRM for growing businesses 
 - [GharPar](https://www.linkedin.com/company/gharpar/) | Lahore | GharPar is the leading tech-enabled at-home beauty service provider in Lahore, Islamabad and Rawalpindi aiming to disrupt the beauty industry of Pakistan.
 - [Hazen.ai](http://hazen.ai/#contact) | Lahore | Hazen.ai is building advanced traffic cameras with the capability to detect dangerous driving behavior through video analysis.
 - [Khareed](https://khareed.pk/careers) | Lahore, Karachi | Khareed is an Enterprise, cloud-based e-procurement software that leverages AI to automate business purchases
